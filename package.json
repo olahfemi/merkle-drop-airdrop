@@ -1,0 +1,17 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "crypto-js": "^4.1.1",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32",
+    "mocha": "^10.0.0",
+    "web3": "^1.8.0"
+  }
+}
